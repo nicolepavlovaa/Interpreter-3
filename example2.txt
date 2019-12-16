@@ -1,0 +1,10 @@
+c = 4 % 2
+a = 8 / 3
+b = 10 - 2 / 2 + 3
+print c
+print a
+print b
+
+F[df] = df + a
+print F[4]
+
